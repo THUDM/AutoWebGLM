@@ -1,6 +1,6 @@
 <h1>AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent</h1>
 
-This is the official implementation of AutoWebGLM. If you find our open-sourced efforts useful, please 🌟 the repo to encourage our following developement!
+This is the official implementation of AutoWebGLM. If you find our open-sourced efforts useful, please 🌟 the repo to encourage our following development!
 
 # Overview
 
