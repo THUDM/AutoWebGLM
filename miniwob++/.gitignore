@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+log_files/
+result/
+raw/
+
+*.png
+test.py
+
+.DS_Store
+*.deb
