@@ -1711,7 +1711,7 @@ def create_id_based_action(action_str: str) -> Action:
             direction = match.group(1)
             return create_scroll_action(direction=direction)
         case "goto":
-            match = re.search(r"goto ?\[(.+)\] \[(d+)\]", action_str)
+            match = re.search(r"goto ?\[(.+)\] \[(\d+)\]", action_str)
             if not match:
                 raise ActionParsingError(f"Invalid goto action {action_str}")
             url, new_tab_flag = (
