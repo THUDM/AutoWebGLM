@@ -1,4 +1,4 @@
-<h1>AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent</h1>
+<h1>AutoWebGLM: A Large Language Model-based Web Navigating Agent</h1>
 
 This is the official implementation of AutoWebGLM. If you find our open-sourced efforts useful, please 🌟 the repo to encourage our following development!
 
@@ -41,12 +41,11 @@ This repository is licensed under the [Apache-2.0 License](LICENSE). All open-so
 If you use this code for your research, please cite our paper.
 
 ```
-@misc{lai2024autowebglm,
-    title={AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent},
-    author={Lai, Hanyu and Liu, Xiao and Iong, Iat Long and Yao, Shuntian and Chen, Yuxuan and Shen, Pengbo and Yu, Hao and Zhang, Hanchen and Zhang, Xiaohan and Dong, Yuxiao and Tang, Jie},
-    year={2024},
-    eprint={2404.03648},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{lai2024autowebglm,
+    author = {Lai, Hanyu and Liu, Xiao and Iong, Iat Long and Yao, Shuntian and Chen, Yuxuan and Shen, Pengbo and Yu, Hao and Zhang, Hanchen and Zhang, Xiaohan and Dong, Yuxiao and Tang, Jie},
+    title = {AutoWebGLM: A Large Language Model-based Web Navigating Agent},
+    booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+    pages = {5295–-5306},
+    year = {2024}
 }
 ```
